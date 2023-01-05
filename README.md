@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radit and now I'm studying informatics at Telkom University. I’m currently learning Backend core and for a start I choose <br>Django
+# ![](![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif))Hawwlloo!:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radit and now I'm studying informatics at Telkom University
 
 
 ## 🌐 Socials:
